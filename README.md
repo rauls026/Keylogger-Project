@@ -14,6 +14,6 @@ Ethical Considerations:
 It is essential to emphasize that this project is conducted strictly for educational purposes. I am committed to ethical coding practices and responsible usage of technology. By creating this keylogger, I aim to broaden my technical skills while upholding the highest standards of ethical behavior.
 
 Disclaimer:
-Please Note: This program is not safe for work and may trigger anti-virus software. It is your responsibility to use this program in a controlled environment and at your own risk.
+This program is not safe for work and may trigger anti-virus software. It is your responsibility to use this program in a controlled environment and at your own risk.
 
 Thank you for your interest in my project, and I hope you find it informative and enlightening!
